@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>inspire_gripper_full</name>
+  <version>0.1.4</version>
+  <description>Mixed Inspire hand and gripper ROS 2 compatibility node for body_control v2.0.7.3.</description>
+  <maintainer email="ubuntu@example.com">ubuntu</maintainer>
+  <license>BSD-3-Clause</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>bodyctrl_msgs</depend>
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+</package>

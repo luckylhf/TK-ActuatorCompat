@@ -1,0 +1,7 @@
+# name, canIds[], slaveId, channel, passages[], type, mode, rateWork, rateReq, zero offset, direction, pos limit or not
+left_gripper_installed: true
+right_gripper_installed: true
+
+inspire_gripper:
+  - [18, [18], 0, 1, [1], 0, 0, 100, 100, 0]
+  - [28, [28], 0, 1, [1], 0, 0, 100, 100, 0]
